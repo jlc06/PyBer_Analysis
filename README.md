@@ -4,7 +4,7 @@
 After completing our initial project to provide our PyBer boss, V. Isualize, with a plethora of different company analyses, Omar and I were given a new project to look specifically at total weekly fares paid by city type (Urban, Suburan, and Rural) to figure out what areas we receive the most revenue from on a monthly basis. 
 
 ## Results
-![Pyber_DF](analysis/PyBer_Type_Summary_DF.png)
+![Pyber_DF](analysis/Pyber_Type_Summary_DF.png)
 
 ## Summary
 
